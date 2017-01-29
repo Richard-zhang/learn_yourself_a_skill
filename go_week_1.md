@@ -1,4 +1,4 @@
-# GO
+# *Week 1* GO
 
 Go is a chess game invented by Chinese. Its recent popularity is built on a series of matches where computer Go players beats the top players.
 
