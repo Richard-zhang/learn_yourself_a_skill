@@ -47,8 +47,8 @@ B * ?Y
 * Compositionality depends on the frame rule
 
 ## Further Reading
-*[A semantic basis for local reasoning](https://pdfs.semanticscholar.org/2948/8d50923a674af28bbb656a852fdf9abfdcef.pdf)
-*[Compositional shape analysis by means of bi-abduction](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/popl09.pdf)
+* [A semantic basis for local reasoning](https://pdfs.semanticscholar.org/2948/8d50923a674af28bbb656a852fdf9abfdcef.pdf)
+* [Compositional shape analysis by means of bi-abduction](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/popl09.pdf)
 
 ## Reference
 * [CMU An Introduction to Separation Logic](https://www.cs.cmu.edu/~jcr/copenhagen08.pdf)
