@@ -5,7 +5,7 @@
 ### Why separation logic?
 * Using First Order Logic to prove programs that mutates data structure that usually depends opon **sharing** in these structures is hard to scale.
 * Sepration Conjunction (P * Q)
-  * *emp* is the unit of *****
+  * *emp* is the unit of *
   * P * Q is true of a state just if its heap compoenet can be split into two parts, one of which satisfies P and the other of which satisfies Q, in which P, Q denotee a set of states.
   * Updating formulae like in-place update of memory
   * P * not P can be consistent because P can hold of one portion of heap and not p of another
