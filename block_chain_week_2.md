@@ -1,4 +1,4 @@
-# *Week 2* Block Chain 
+# *Week 2* Block Chain
 
 I got to know about Bitcoin in summer of 2012. The only impression of Bitcoin was that it was something cool. I paid attention to Bitcoin again in 2014 when its exchange rate to CNY was 1:1400. Despite knowing the bitcoin relatively earlier and attending some stupid forum about Bitcoin, I didn't understand it until this weekend with the help of a programmer's perspective.
 
@@ -73,7 +73,11 @@ I got to know about Bitcoin in summer of 2012. The only impression of Bitcoin wa
   * not already consumed
   * total value out = total value in
   * signed by owners of all consumed coins
-
+* Proof-of-Work
+  * The requirement for the generation of a new set of transactions("block") to be added to block chain
+  * All blocks have a short string of meaningless data called nonce
+  * Mining computers are required to search for the right nonce satisfies a certain condition
+    * e.x certain number of leading zeros of hash
 ## FAQ
 
 1. What if the block chain is too big?
